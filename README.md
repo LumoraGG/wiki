@@ -1,0 +1,2 @@
+# wiki
+Lumora Wiki / Documentation
