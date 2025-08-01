@@ -1,0 +1,14 @@
+{
+    "title": "Introduction",
+    "description": "Introduction to Lumora",
+    "icon": "Building",
+    "root": true,
+    "pages": [
+        "---Welcome---",
+        "index",
+
+		"---Other---",
+		"[Home](https://lumora.gg)",
+		"[Community Discord](https://lumora.gg/discord)"
+    ]
+}
